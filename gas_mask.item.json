@@ -25,7 +25,7 @@
 			"minecraft:repairable": {
 				"repair_items": [
 					{
-						"items": ["iron_ingot"],
+						"items": ["yellow_wool"],
 						"repair_amount": 2100
 					}
 				]
